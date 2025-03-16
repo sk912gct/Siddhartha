@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Analyzed UEFA football data using PostgreSQL to derive insights about teams, players, stadiums, and match performance.**
 
-- 🌱 I’m currently learning **Advanced Excel,PostgreSQL,Tableau,Machine Learning**
+- 🌱 I’m currently learning **Advanced Excel,PostgreSQL,Tableau,Python,Machine Learning**
 
 - 💬 Ask me about **AI,Machine Learning**
 
